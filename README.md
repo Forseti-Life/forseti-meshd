@@ -1,18 +1,12 @@
-<!-- AUTOMATION VALIDATION: 2026-04-23 - automation of development confirmed for this repo -->
-# Forseti Meshd
+# forseti-meshd
 
-Peer-to-peer mesh network daemon for decentralized communication.
+This repository is currently a placeholder for standalone mesh or distributed-runtime infrastructure work.
 
-## Status
+## Current state
 
-🌐 **Phase 2: Developer Libraries** — Content extraction planned
+- repository scaffolding only
+- no substantive implementation is currently checked in
 
-## Features
+## Intended role
 
-- P2P networking
-- Mesh topology
-- Decentralized communication
-
-## License
-
-MIT — See LICENSE file
+Use this repo for future mesh-networking or daemon-oriented components that should be versioned separately from HQ and product repos.
